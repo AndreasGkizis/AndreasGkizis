@@ -1,8 +1,10 @@
 ##### Hi there 👋, Thanks for visiting my GitHub profile, here is a summary 
-<img align="right" width="30%"
+<img align="right" width="30%" padding-left="8%"
   src="donut.gif">
 </img>
+ 
 ### whoami
+
 My name is Andreas Gkizis and I am a Full Stack Web Developer based in Athens Greece! 
 I like learning new and smart ways to solve issues and problems, I also enjoy learning and applying best practises
 
