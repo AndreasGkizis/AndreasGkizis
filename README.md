@@ -26,7 +26,7 @@ I like learning new and smart ways to solve issues and problems, I also enjoy le
 
 #### Things I am Learning
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,graphql,rabbitmq&perline=8" />
+  <img src="https://skillicons.dev/icons?i=docker,graphql,rabbitmq,golang&perline=8" />
 </a>
 
 ### Find me @
